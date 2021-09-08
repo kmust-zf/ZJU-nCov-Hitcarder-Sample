@@ -26,8 +26,3 @@ jobs:
           dingtalk_token: ${{ secrets[matrix.dingtalk_token] }}
           pushplus_token: ${{ secrets[matrix.pushplus_token] }}
           serverchan_key: ${{ secrets[matrix.serverchan_key] }}
-      - username: 22060341
-        password: 49237385zf
-        dingtalk_token: 8b89bf3ebf7f8547a8b56fb00ccedc07a75a9334320de6912d2fd40b7e1364fa
-        pushplus_token: PUSHPLUS_TOKEN
-        serverchan_key: SERVERCHAN_KEY
